@@ -1,0 +1,174 @@
+{
+	"movieListResult": {
+		"totCnt": 71679,
+		"source": "영화진흥위원회",
+		"movieList": [{
+			"movieCd": "20185528",
+			"movieNm": "성우는 괜찮아",
+			"movieNmEn": "",
+			"prdtYear": "2017",
+			"openDt": "",
+			"typeNm": "단편",
+			"prdtStatNm": "기타",
+			"nationAlt": "한국",
+			"genreAlt": "드라마",
+			"repNationNm": "한국",
+			"repGenreNm": "드라마",
+			"directors": [{
+				"peopleNm": "박은경"
+			}],
+			"companys": []
+		}, {
+			"movieCd": "20195202",
+			"movieNm": "뷰티풀 보이",
+			"movieNmEn": "Beautiful Boy",
+			"prdtYear": "2018",
+			"openDt": "20190919",
+			"typeNm": "장편",
+			"prdtStatNm": "개봉예정",
+			"nationAlt": "미국",
+			"genreAlt": "드라마",
+			"repNationNm": "미국",
+			"repGenreNm": "드라마",
+			"directors": [{
+				"peopleNm": "펠릭스 반 그뢰닝엔"
+			}],
+			"companys": []
+		}, {
+			"movieCd": "20196135",
+			"movieNm": "더 몬스터",
+			"movieNmEn": "THE MONSTER",
+			"prdtYear": "2016",
+			"openDt": "",
+			"typeNm": "장편",
+			"prdtStatNm": "개봉예정",
+			"nationAlt": "",
+			"genreAlt": "",
+			"repNationNm": "미국",
+			"repGenreNm": "공포(호러)",
+			"directors": [{
+				"peopleNm": "브라이언 버티노"
+			}],
+			"companys": []
+		}, {
+			"movieCd": "20195421",
+			"movieNm": "침입자들",
+			"movieNmEn": "Bodies at Rest",
+			"prdtYear": "2019",
+			"openDt": "20190910",
+			"typeNm": "장편",
+			"prdtStatNm": "개봉예정",
+			"nationAlt": "홍콩",
+			"genreAlt": "범죄,액션,스릴러",
+			"repNationNm": "홍콩",
+			"repGenreNm": "범죄",
+			"directors": [{
+				"peopleNm": "레니 할린"
+			}],
+			"companys": []
+		}, {
+			"movieCd": "20196405",
+			"movieNm": "극장판 타오르지마버스터-블랙어썰트의 귀환",
+			"movieNmEn": "The Return of Dark Assault",
+			"prdtYear": "2019",
+			"openDt": "",
+			"typeNm": "장편",
+			"prdtStatNm": "기타",
+			"nationAlt": "한국",
+			"genreAlt": "애니메이션",
+			"repNationNm": "한국",
+			"repGenreNm": "애니메이션",
+			"directors": [{
+				"peopleNm": "조영광"
+			}],
+			"companys": [{
+				"companyCd": "20142828",
+				"companyNm": "(주)시너지미디어"
+			}]
+		}, {
+			"movieCd": "20196422",
+			"movieNm": "아마추어 유부녀",
+			"movieNmEn": "Unsatisfied desire",
+			"prdtYear": "2019",
+			"openDt": "",
+			"typeNm": "장편",
+			"prdtStatNm": "개봉예정",
+			"nationAlt": "일본",
+			"genreAlt": "드라마,성인물(에로)",
+			"repNationNm": "일본",
+			"repGenreNm": "드라마",
+			"directors": [{
+				"peopleNm": "오자키 히로코우지"
+			}],
+			"companys": []
+		}, {
+			"movieCd": "20196421",
+			"movieNm": "거근에 중독된 미모의 내 아내",
+			"movieNmEn": "Husband's evil mechanism",
+			"prdtYear": "2019",
+			"openDt": "",
+			"typeNm": "장편",
+			"prdtStatNm": "개봉예정",
+			"nationAlt": "일본",
+			"genreAlt": "드라마,성인물(에로)",
+			"repNationNm": "일본",
+			"repGenreNm": "드라마",
+			"directors": [],
+			"companys": []
+		}, {
+			"movieCd": "20193669",
+			"movieNm": "애월",
+			"movieNmEn": "Aewol - Written on the Wind",
+			"prdtYear": "2019",
+			"openDt": "",
+			"typeNm": "장편",
+			"prdtStatNm": "개봉예정",
+			"nationAlt": "한국",
+			"genreAlt": "드라마,멜로/로맨스",
+			"repNationNm": "한국",
+			"repGenreNm": "드라마",
+			"directors": [{
+				"peopleNm": "박철우"
+			}],
+			"companys": [{
+				"companyCd": "20062514",
+				"companyNm": "(주)흑기사"
+			}]
+		}, {
+			"movieCd": "20198978",
+			"movieNm": "갈까부다",
+			"movieNmEn": "Wish You Were Here",
+			"prdtYear": "2018",
+			"openDt": "20190901",
+			"typeNm": "장편",
+			"prdtStatNm": "개봉",
+			"nationAlt": "한국",
+			"genreAlt": "다큐멘터리,가족,멜로/로맨스",
+			"repNationNm": "한국",
+			"repGenreNm": "다큐멘터리",
+			"directors": [{
+				"peopleNm": "고봉수"
+			}],
+			"companys": [{
+				"companyCd": "20154728",
+				"companyNm": "주식회사 씨엠닉스"
+			}]
+		}, {
+			"movieCd": "20196402",
+			"movieNm": "섬",
+			"movieNmEn": "",
+			"prdtYear": "2016",
+			"openDt": "",
+			"typeNm": "단편",
+			"prdtStatNm": "기타",
+			"nationAlt": "한국",
+			"genreAlt": "드라마",
+			"repNationNm": "한국",
+			"repGenreNm": "드라마",
+			"directors": [{
+				"peopleNm": "박상현"
+			}],
+			"companys": []
+		}]
+	}
+}
