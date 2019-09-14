@@ -156,8 +156,8 @@ class NaverMovieCrawler() :
 
         # comment page로 이동
         self.webdriver.find_element_by_xpath('//*[@id="movieEndTabMenu"]/li/a[contains (@href, "point")]').click()
+        self.webdriver.switch_to.frame('pointAfterListIframe')
         numComments = self.webdriver.find_element_by_xpath('//*[@class="total"]/em').text # 전체 comment갯수
-        print(numComments)
         numComments = int(numComments.replace(',',''))
         if numComments == 0 :
             return []
