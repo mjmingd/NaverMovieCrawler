@@ -190,7 +190,6 @@ class NaverMovieCrawler() :
 
                 commentsList.append(comment)
 
-        print("got commentsList")
         return commentsList
 
 
